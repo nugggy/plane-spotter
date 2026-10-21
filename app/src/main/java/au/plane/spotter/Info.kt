@@ -134,7 +134,7 @@ fun AboutScreen(planes: List<Plane>, updates: UpdateState, checkNow: () -> Unit,
         LazyColumn(Modifier.fillMaxSize().padding(pad), contentPadding = PaddingValues(vertical = 8.dp)) {
             item {
                 SectionCard("Plane Spotter ${BuildConfig.VERSION_NAME}", "✈️") {
-                    Text("Made for a young aviation fan in Melbourne. Everything works offline. The app only goes online to check for new versions.")
+                    Text("Made for a young aviation fan in Melbourne. The aircraft guide works offline. The app goes online to check for new versions and, when you open the sky scanner, to find live aircraft near you. Only a rounded position (about 1 km) is sent for that, and nothing is stored.")
                     Spacer(Modifier.height(10.dp))
                     Button(onClick = checkNow) { Text("Check for updates") }
                     updates.lastCheckMessage?.let { Text(it, Modifier.padding(top = 6.dp), style = MaterialTheme.typography.bodySmall) }

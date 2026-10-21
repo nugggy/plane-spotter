@@ -38,6 +38,7 @@ sealed interface Screen {
     data object Log : Screen
     data object Guide : Screen
     data object About : Screen
+    data object Scanner : Screen
 }
 
 class MainActivity : ComponentActivity() {
@@ -126,6 +127,7 @@ fun App(store: SpotterStore) {
         Screen.Log -> LogScreen(planes, store, ::go, ::back)
         Screen.Guide -> GuideScreen(::back)
         Screen.About -> AboutScreen(planes, updates, ::checkNow, ::back)
+        Screen.Scanner -> SkyScannerScreen(planes, store, ::go, ::back)
     }
 
     val info = updates.available

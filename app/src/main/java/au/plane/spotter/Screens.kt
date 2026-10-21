@@ -68,6 +68,7 @@ fun HomeScreen(planes: List<Plane>, store: SpotterStore, updates: UpdateState, g
     val local = planes.count { it.localSpotting }
     val today = remember { planes[(LocalDate.now().toEpochDay() % planes.size).toInt()] }
     val tiles = buildList {
+        add(Tile("📡", "Sky scanner", "Point your phone at a plane overhead", Screen.Scanner))
         add(Tile("📍", "Spot in Melbourne", "$local you can see around Victoria", Screen.Browse(localOnly = true)))
         add(Tile("🌏", "Every aircraft", "All ${planes.size} in the hangar", Screen.Browse()))
         Category.entries.forEach { c ->

@@ -94,3 +94,54 @@ stratolaunch	Stratolaunch Roc	experimental	Scaled Composites Stratolaunch	no
 voyager	Rutan Voyager	experimental	Rutan Voyager	no
 spruce	Hughes H-4 Hercules (Spruce Goose)	experimental	Hughes H-4 Hercules	no
 ghostbat	Boeing MQ-28 Ghost Bat	experimental	Boeing MQ-28 Ghost Bat	yes
+a340	Airbus A340	airliner	Airbus A340	no
+b767	Boeing 767	airliner	Boeing 767	no
+b757	Boeing 757	airliner	Boeing 757	no
+b717	Boeing 717	airliner	Boeing 717	no
+e195e2	Embraer E195-E2	airliner	Embraer E-Jet E2 family	no
+crj900	Bombardier CRJ900	regional	Bombardier CRJ700 series	no
+bae146	BAe 146	regional	British Aerospace 146	no
+metro	Fairchild Metroliner	regional	Fairchild Swearingen Metroliner	yes
+beech1900	Beechcraft 1900	regional	Beechcraft 1900	no
+md11	McDonnell Douglas MD-11	cargo	McDonnell Douglas MD-11	no
+a300	Airbus A300	cargo	Airbus A300	no
+il76	Ilyushin Il-76	cargo	Ilyushin Il-76	no
+belugast	Airbus Beluga (A300-600ST)	cargo	Airbus Beluga	no
+mq4c	Northrop Grumman MQ-4C Triton	military	Northrop Grumman MQ-4C Triton	no
+c27j	Leonardo C-27J Spartan	military	Alenia C-27J Spartan	yes
+hornet	McDonnell Douglas F/A-18 Hornet	military	McDonnell Douglas F/A-18 Hornet	yes
+f15	McDonnell Douglas F-15 Eagle	military	McDonnell Douglas F-15 Eagle	no
+f4	McDonnell Douglas F-4 Phantom II	military	McDonnell Douglas F-4 Phantom II	no
+mig29	Mikoyan MiG-29	military	Mikoyan MiG-29	no
+f117	Lockheed F-117 Nighthawk	military	Lockheed F-117 Nighthawk	no
+b1	Rockwell B-1 Lancer	military	Rockwell B-1 Lancer	no
+kc46	Boeing KC-46 Pegasus	military	Boeing KC-46 Pegasus	no
+e3	Boeing E-3 Sentry	military	Boeing E-3 Sentry	no
+tornado	Panavia Tornado	military	Panavia Tornado	no
+j20	Chengdu J-20	military	Chengdu J-20	no
+f111	General Dynamics F-111	historic	General Dynamics F-111 Aardvark	yes
+mirage	Dassault Mirage III	historic	Dassault Mirage III	yes
+sabre	CAC Sabre	historic	CAC Sabre	yes
+winjeel	CAC Winjeel	historic	CAC Winjeel	yes
+caribou	de Havilland Canada DHC-4 Caribou	historic	de Havilland Canada DHC-4 Caribou	no
+pc9	Pilatus PC-9	historic	Pilatus PC-9	yes
+mosquito	de Havilland Mosquito	historic	de Havilland Mosquito	no
+anson	Avro Anson	historic	Avro Anson	no
+zero	Mitsubishi A6M Zero	historic	Mitsubishi A6M Zero	no
+tu144	Tupolev Tu-144	historic	Tupolev Tu-144	no
+dc10	McDonnell Douglas DC-10	historic	McDonnell Douglas DC-10	no
+l1011	Lockheed L-1011 TriStar	historic	Lockheed L-1011 TriStar	no
+b727	Boeing 727	historic	Boeing 727	no
+nomad	GAF Nomad	general	GAF Nomad	no
+airvan	GippsAero GA8 Airvan	general	GippsAero GA8 Airvan	yes
+pc24	Pilatus PC-24	general	Pilatus PC-24	yes
+c152	Cessna 152	general	Cessna 152	yes
+c182	Cessna 182 Skylane	general	Cessna 182 Skylane	yes
+p2008	Tecnam P2008	general	Tecnam P2008	yes
+da42	Diamond DA42 Twin Star	general	Diamond DA42 Twin Star	yes
+bonanza	Beechcraft Bonanza	general	Beechcraft Bonanza	yes
+phenom300	Embraer Phenom 300	general	Embraer Phenom 300	yes
+xb70	North American XB-70 Valkyrie	experimental	North American XB-70 Valkyrie	no
+ss2	Virgin Galactic SpaceShipTwo	experimental	Scaled Composites SpaceShipTwo	no
+velis	Pipistrel Velis Electro	experimental	Pipistrel Velis Electro	no
+b21	Northrop Grumman B-21 Raider	experimental	Northrop Grumman B-21 Raider	no

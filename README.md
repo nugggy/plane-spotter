@@ -1,16 +1,23 @@
 # Plane Spotter
 
-An Android app for a young aviation fan in Melbourne. It covers 95 aircraft, from the Qantas 737s and Jetstar A321s he'll see every week at Tullamarine to the Wright Flyer, Concorde, the SR-71 and the Australian-built MQ-28 Ghost Bat.
+An Android app for a young aviation fan in Melbourne. It covers 146 aircraft, from the Qantas 737s and Jetstar A321s he'll see every week at Tullamarine to the Wright Flyer, Concorde, the SR-71 and the Australian-built MQ-28 Ghost Bat.
 
 Each aircraft has a real photo, full specifications, fun facts, tips on how to recognise it, and where to spot it around Melbourne and Victoria. The app also has:
 
-- a "Spot in Melbourne" list of 48 aircraft he's likely to see locally
+- a sky scanner: point the phone at a plane overhead and it shows what it is, the airline, where it is flying from and to, how far through the trip it is, its height, speed and distance
+- a "Spot in Melbourne" list of 64 aircraft he's likely to see locally
 - a spotter's log to tick off aircraft he has seen, with progress and badges
 - a 10-question quiz (name the aircraft from its photo, which is faster, which flew first)
 - a compare screen that puts any two aircraft head to head
 - a Melbourne spotting guide covering Tullamarine, Avalon, Essendon Fields, Moorabbin, Point Cook and East Sale
 
-Everything works offline. The app only goes online to check for updates.
+The aircraft guide works offline. The app goes online to check for updates and, while the sky scanner is open, to fetch live aircraft positions.
+
+## Sky scanner and privacy
+
+The scanner combines the phone's location, compass and tilt sensors with live ADS-B data to work out which aircraft the camera is pointing at. Live positions come from [adsb.lol](https://adsb.lol) (Open Database Licence) and flight routes and aircraft details from [adsbdb.com](https://www.adsbdb.com). Neither needs an account.
+
+The exact location never leaves the phone. Only a position rounded to two decimal places (about 1 km) is sent to adsb.lol, and only a flight callsign or transponder code is sent to adsbdb. Nothing is stored, and the camera picture is never saved or sent anywhere. Location and camera permission are only requested when the scanner is opened.
 
 ## Installing
 
