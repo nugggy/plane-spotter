@@ -1,0 +1,96 @@
+id	name	category	wikipedia_article	melbourne
+b737-800	Boeing 737-800	airliner	Boeing 737 Next Generation	yes
+b737-max	Boeing 737 MAX 8	airliner	Boeing 737 MAX	yes
+a320	Airbus A320	airliner	Airbus A320 family	yes
+a321neo	Airbus A321neo and A321XLR	airliner	Airbus A321neo	yes
+a330	Airbus A330	airliner	Airbus A330	yes
+a330neo	Airbus A330neo	airliner	Airbus A330neo	yes
+b787	Boeing 787 Dreamliner	airliner	Boeing 787 Dreamliner	yes
+a350	Airbus A350	airliner	Airbus A350	yes
+a380	Airbus A380	airliner	Airbus A380	yes
+b777	Boeing 777	airliner	Boeing 777	yes
+b747	Boeing 747	airliner	Boeing 747	yes
+b777x	Boeing 777X	airliner	Boeing 777X	no
+c919	COMAC C919	airliner	Comac C919	no
+a220	Airbus A220	regional	Airbus A220	yes
+e190	Embraer E190	regional	Embraer E-Jet family	yes
+f100	Fokker 100	regional	Fokker 100	yes
+dash8	De Havilland Canada Dash 8 Q400	regional	De Havilland Canada Dash 8	yes
+saab340	Saab 340	regional	Saab 340	yes
+atr72	ATR 72	regional	ATR 72	no
+twinotter	De Havilland Canada Twin Otter	regional	de Havilland Canada DHC-6 Twin Otter	no
+b777f	Boeing 777 Freighter	cargo	Boeing 777	yes
+belugaxl	Airbus BelugaXL	cargo	Airbus BelugaXL	no
+dreamlifter	Boeing Dreamlifter	cargo	Boeing Dreamlifter	no
+an124	Antonov An-124 Ruslan	cargo	Antonov An-124 Ruslan	yes
+an225	Antonov An-225 Mriya	cargo	Antonov An-225 Mriya	no
+f35	Lockheed Martin F-35A Lightning II	military	Lockheed Martin F-35 Lightning II	yes
+superhornet	Boeing F/A-18F Super Hornet	military	Boeing F/A-18E/F Super Hornet	yes
+growler	Boeing EA-18G Growler	military	Boeing EA-18G Growler	yes
+c17	Boeing C-17 Globemaster III	military	Boeing C-17 Globemaster III	yes
+c130j	Lockheed Martin C-130J Super Hercules	military	Lockheed Martin C-130J Super Hercules	yes
+kc30	Airbus KC-30A (A330 MRTT)	military	Airbus A330 MRTT	yes
+p8	Boeing P-8A Poseidon	military	Boeing P-8 Poseidon	yes
+e7	Boeing E-7A Wedgetail	military	Boeing E-7 Wedgetail	yes
+pc21	Pilatus PC-21	military	Pilatus PC-21	yes
+hawk	BAE Systems Hawk 127	military	BAE Systems Hawk	yes
+f22	Lockheed Martin F-22 Raptor	military	Lockheed Martin F-22 Raptor	no
+b2	Northrop B-2 Spirit	military	Northrop B-2 Spirit	no
+b52	Boeing B-52 Stratofortress	military	Boeing B-52 Stratofortress	no
+a10	Fairchild Republic A-10 Thunderbolt II	military	Fairchild Republic A-10 Thunderbolt II	no
+f16	General Dynamics F-16 Fighting Falcon	military	General Dynamics F-16 Fighting Falcon	no
+typhoon	Eurofighter Typhoon	military	Eurofighter Typhoon	no
+rafale	Dassault Rafale	military	Dassault Rafale	no
+gripen	Saab JAS 39 Gripen	military	Saab JAS 39 Gripen	no
+su57	Sukhoi Su-57	military	Sukhoi Su-57	no
+c5	Lockheed C-5 Galaxy	military	Lockheed C-5 Galaxy	no
+a400m	Airbus A400M Atlas	military	Airbus A400M Atlas	no
+v22	Bell Boeing V-22 Osprey	military	Bell Boeing V-22 Osprey	no
+harrier	McDonnell Douglas AV-8B Harrier II	military	McDonnell Douglas AV-8B Harrier II	no
+f14	Grumman F-14 Tomcat	military	Grumman F-14 Tomcat	no
+u2	Lockheed U-2	military	Lockheed U-2	no
+wrightflyer	Wright Flyer	historic	Wright Flyer	no
+bleriot	Bleriot XI	historic	Blériot XI	no
+camel	Sopwith Camel	historic	Sopwith Camel	no
+fokkerdr1	Fokker Dr.I Triplane	historic	Fokker Dr.I	no
+vimy	Vickers Vimy	historic	Vickers Vimy	yes
+southerncross	Southern Cross (Fokker F.VII)	historic	Southern Cross (aircraft)	no
+spiritstlouis	Spirit of St. Louis	historic	Spirit of St. Louis	no
+tigermoth	de Havilland Tiger Moth	historic	de Havilland DH.82 Tiger Moth	yes
+dc3	Douglas DC-3	historic	Douglas DC-3	yes
+spitfire	Supermarine Spitfire	historic	Supermarine Spitfire	yes
+mustang	North American P-51 Mustang	historic	North American P-51 Mustang	yes
+boomerang	CAC Boomerang	historic	CAC Boomerang	yes
+lancaster	Avro Lancaster	historic	Avro Lancaster	no
+b17	Boeing B-17 Flying Fortress	historic	Boeing B-17 Flying Fortress	no
+catalina	Consolidated PBY Catalina	historic	Consolidated PBY Catalina	yes
+me262	Messerschmitt Me 262	historic	Messerschmitt Me 262	no
+constellation	Lockheed Super Constellation	historic	Lockheed L-1049 Super Constellation	no
+comet	de Havilland Comet	historic	de Havilland Comet	no
+b707	Boeing 707	historic	Boeing 707	no
+concorde	Concorde	historic	Concorde	no
+sr71	Lockheed SR-71 Blackbird	historic	Lockheed SR-71 Blackbird	no
+c172	Cessna 172 Skyhawk	general	Cessna 172	yes
+pa28	Piper PA-28 Cherokee	general	Piper PA-28 Cherokee	yes
+sr22	Cirrus SR22	general	Cirrus SR22	yes
+da40	Diamond DA40 Diamond Star	general	Diamond DA40 Diamond Star	yes
+cub	Piper J-3 Cub	general	Piper J-3 Cub	no
+pc12	Pilatus PC-12	general	Pilatus PC-12	yes
+kingair	Beechcraft King Air	general	Beechcraft King Air	yes
+caravan	Cessna 208 Caravan	general	Cessna 208 Caravan	yes
+beaver	de Havilland Canada DHC-2 Beaver	general	de Havilland Canada DHC-2 Beaver	no
+g650	Gulfstream G650	general	Gulfstream G650	yes
+global7500	Bombardier Global 7500	general	Bombardier Global 7500	yes
+citation	Cessna Citation CJ4	general	Cessna CitationJet/M2	yes
+extra300	Extra EA-300	general	Extra EA-300	yes
+at802	Air Tractor AT-802 Fireboss	general	Air Tractor AT-802	yes
+cl415	Canadair CL-415 Super Scooper	general	Canadair CL-415	no
+bellx1	Bell X-1	experimental	Bell X-1	no
+x15	North American X-15	experimental	North American X-15	no
+x59	Lockheed Martin X-59 Quesst	experimental	Lockheed Martin X-59 Quesst	no
+xb1	Boom XB-1	experimental	Boom Technology XB-1	no
+solarimpulse	Solar Impulse 2	experimental	Solar Impulse	no
+stratolaunch	Stratolaunch Roc	experimental	Scaled Composites Stratolaunch	no
+voyager	Rutan Voyager	experimental	Rutan Voyager	no
+spruce	Hughes H-4 Hercules (Spruce Goose)	experimental	Hughes H-4 Hercules	no
+ghostbat	Boeing MQ-28 Ghost Bat	experimental	Boeing MQ-28 Ghost Bat	yes

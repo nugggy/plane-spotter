@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PlaneSpotter" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/sky</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <color name="sky">#FF0B3D91</color>
+    <color name="ic_bg">#FF1E88E5</color>
+</resources>

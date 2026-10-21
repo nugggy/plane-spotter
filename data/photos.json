@@ -1,0 +1,762 @@
+[
+ {
+  "id": "b737-800",
+  "file": "Qantas Boeing 737-800 MEL Nazarinia.jpg",
+  "artist": "Mehdi Nazarinia",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:Qantas_Boeing_737-800_MEL_Nazarinia.jpg",
+  "asset": "photos/b737-800.jpg"
+ },
+ {
+  "id": "b737-max",
+  "file": "Virgin Australia (VH-8VB) Boeing 737 MAX 8 at Melbourne Airport, Oct 2025.jpg",
+  "artist": "DaHuzyBru",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Virgin_Australia_(VH-8VB)_Boeing_737_MAX_8_at_Melbourne_Airport%2C_Oct_2025.jpg",
+  "asset": "photos/b737-max.jpg"
+ },
+ {
+  "id": "a320",
+  "file": "Airbus A320-214, Airbus Industrie JP7617615.jpg",
+  "artist": "Pedro Aragão",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Airbus_A320-214%2C_Airbus_Industrie_JP7617615.jpg",
+  "asset": "photos/a320.jpg"
+ },
+ {
+  "id": "a321neo",
+  "file": "Jetstar Airbus A321neo VH-OYF Perth 2025 (03).jpg",
+  "artist": "Bahnfrend",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Jetstar_Airbus_A321neo_VH-OYF_Perth_2025_(03).jpg",
+  "asset": "photos/a321neo.jpg"
+ },
+ {
+  "id": "a330",
+  "file": "Qantas Airbus A330-300 (VH-QPJ) on finals into Brisbane Airport.jpg",
+  "artist": "Lance Broad",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Qantas_Airbus_A330-300_(VH-QPJ)_on_finals_into_Brisbane_Airport.jpg",
+  "asset": "photos/a330.jpg"
+ },
+ {
+  "id": "a330neo",
+  "file": "Airbus A330neo F-WTTN 37.jpg",
+  "artist": "New York-air",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Airbus_A330neo_F-WTTN_37.jpg",
+  "asset": "photos/a330neo.jpg"
+ },
+ {
+  "id": "b787",
+  "file": "Qantas - VH-ZNF - Boeing 787-9 Dreamliner - QF6027 - VGHS.jpg",
+  "artist": "Md Shaifuzzaman Ayon",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Qantas_-_VH-ZNF_-_Boeing_787-9_Dreamliner_-_QF6027_-_VGHS.jpg",
+  "asset": "photos/b787.jpg"
+ },
+ {
+  "id": "a350",
+  "file": "Singapore Airlines Airbus A350-900 10.000th Airbus.jpg",
+  "artist": "馬鱈作定 | バタラサクティ",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_Airbus_A350-900_10.000th_Airbus.jpg",
+  "asset": "photos/a350.jpg"
+ },
+ {
+  "id": "a380",
+  "file": "Qantas a380 vh-oqa takeoff heathrow arp.jpg",
+  "artist": "Adrian Pingstone",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Qantas_a380_vh-oqa_takeoff_heathrow_arp.jpg",
+  "asset": "photos/a380.jpg"
+ },
+ {
+  "id": "b777",
+  "file": "Boeing 777-300ER, Geneva Airport, Le Grand-Saconnex (BL7C0540).jpg",
+  "artist": "Matti Blume",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing_777-300ER%2C_Geneva_Airport%2C_Le_Grand-Saconnex_(BL7C0540).jpg",
+  "asset": "photos/b777.jpg"
+ },
+ {
+  "id": "b747",
+  "file": "Landing of Boeing 747-400 of Qantas at Brisbane Airport.jpg",
+  "artist": "Stirling Day",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Landing_of_Boeing_747-400_of_Qantas_at_Brisbane_Airport.jpg",
+  "asset": "photos/b747.jpg"
+ },
+ {
+  "id": "b777x",
+  "file": "777X Roll-Out (40407373023) (cropped).jpg",
+  "artist": "Dan Nevill from Seattle, WA, United States",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(40407373023)_(cropped).jpg",
+  "asset": "photos/b777x.jpg"
+ },
+ {
+  "id": "c919",
+  "file": "B-919A@PEK (20221226151722).jpg",
+  "artist": "N509FZ",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:B-919A%40PEK_(20221226151722).jpg",
+  "asset": "photos/c919.jpg"
+ },
+ {
+  "id": "a220",
+  "file": "20250407 Airbus A220-300 of QantasLink (VH-X4D) at HBA.jpg",
+  "artist": "Windmemories",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:20250407_Airbus_A220-300_of_QantasLink_(VH-X4D)_at_HBA.jpg",
+  "asset": "photos/a220.jpg"
+ },
+ {
+  "id": "e190",
+  "file": "KLM Cityhopper - Embraer 190LR - AN2571563.jpg",
+  "artist": "Richard Vandervord",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:KLM_Cityhopper_-_Embraer_190LR_-_AN2571563.jpg",
+  "asset": "photos/e190.jpg"
+ },
+ {
+  "id": "f100",
+  "file": "Alliance Airlines Fokker 100 VH-FKF Perth 2024 (01).jpg",
+  "artist": "Bahnfrend",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Alliance_Airlines_Fokker_100_VH-FKF_Perth_2024_(01).jpg",
+  "asset": "photos/f100.jpg"
+ },
+ {
+  "id": "dash8",
+  "file": "QantasLink Bombardier Dash 8-Q400 VH-QOR Sydney Airport.jpg",
+  "artist": "Simon_sees",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:QantasLink_Bombardier_Dash_8-Q400_VH-QOR_Sydney_Airport.jpg",
+  "asset": "photos/dash8.jpg"
+ },
+ {
+  "id": "saab340",
+  "file": "REX SAAB 340 VH-RXE.jpg",
+  "artist": "Bidgee",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:REX_SAAB_340_VH-RXE.jpg",
+  "asset": "photos/saab340.jpg"
+ },
+ {
+  "id": "atr72",
+  "file": "F-WWEZ (948) ATR.72-212A(500) FlyFireFly TLS 30AUG11 (6097869500) (cropped).jpg",
+  "artist": "Ken Fielding",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:F-WWEZ_(948)_ATR.72-212A(500)_FlyFireFly_TLS_30AUG11_(6097869500)_(cropped).jpg",
+  "asset": "photos/atr72.jpg"
+ },
+ {
+  "id": "twinotter",
+  "file": "WinAir De Havilland Canada DHC-6-300 Twin Otter Breidenstein.jpg",
+  "artist": "Timo Breidenstein",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:WinAir_De_Havilland_Canada_DHC-6-300_Twin_Otter_Breidenstein.jpg",
+  "asset": "photos/twinotter.jpg"
+ },
+ {
+  "id": "b777f",
+  "file": "Leipzig Halle Airport Kalitta Air DHL Aviation Boeing 777-F N775CK (DSC07744).jpg",
+  "artist": "MarcelX42",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Leipzig_Halle_Airport_Kalitta_Air_DHL_Aviation_Boeing_777-F_N775CK_(DSC07744).jpg",
+  "asset": "photos/b777f.jpg"
+ },
+ {
+  "id": "belugaxl",
+  "file": "Hamburg-Finkenwerder Airport Airbus Transport International Airbus A330-743L Beluga XL F-GXLH (DSC09365).jpg",
+  "artist": "MarcelX42",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hamburg-Finkenwerder_Airport_Airbus_Transport_International_Airbus_A330-743L_Beluga_XL_F-GXLH_(DSC09365).jpg",
+  "asset": "photos/belugaxl.jpg"
+ },
+ {
+  "id": "dreamlifter",
+  "file": "Boeing, N780BA, B747-409(LCF) Dreamlifter - PAE (19833251496).jpg",
+  "artist": "ERIC SALARD from LE GRAND VILLAGE PLAGE, FRANCE",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing%2C_N780BA%2C_B747-409(LCF)_Dreamlifter_-_PAE_(19833251496).jpg",
+  "asset": "photos/dreamlifter.jpg"
+ },
+ {
+  "id": "an124",
+  "file": "Антонов Ан-124 9773054055093, Москва - Домодедово RP2297.jpg",
+  "artist": "Alex Beltyukov",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2_%D0%90%D0%BD-124_9773054055093%2C_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_-_%D0%94%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE_RP2297.jpg",
+  "asset": "photos/an124.jpg"
+ },
+ {
+  "id": "an225",
+  "file": "Antonov Design Bureau Antonov An-225 Mriya at Leipzig Halle (EDDP-LEJ).jpg",
+  "artist": "Myroslav Kaplun",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Antonov_Design_Bureau_Antonov_An-225_Mriya_at_Leipzig_Halle_(EDDP-LEJ).jpg",
+  "asset": "photos/an225.jpg"
+ },
+ {
+  "id": "f35",
+  "file": "F-35A flight (cropped).jpg",
+  "artist": "U.S. Air Force photo by Master Sgt. Donald R. Allen",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:F-35A_flight_(cropped).jpg",
+  "asset": "photos/f35.jpg"
+ },
+ {
+  "id": "superhornet",
+  "file": "RAAF F-18F Super Hornet (IMG7072).jpg",
+  "artist": "Andrew Mercer (www.baldwhiteguy.co.nz)",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:RAAF_F-18F_Super_Hornet_(IMG7072).jpg",
+  "asset": "photos/superhornet.jpg"
+ },
+ {
+  "id": "growler",
+  "file": "U.S. Navy EA-18G Growler breaks away from a U.S. Air Force KC-135 (altered).jpg",
+  "artist": "Senior Airman John Linzmeier",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:U.S._Navy_EA-18G_Growler_breaks_away_from_a_U.S._Air_Force_KC-135_(altered).jpg",
+  "asset": "photos/growler.jpg"
+ },
+ {
+  "id": "c17",
+  "file": "C-17 test sortie.jpg",
+  "artist": "U.S. Air Force",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:C-17_test_sortie.jpg",
+  "asset": "photos/c17.jpg"
+ },
+ {
+  "id": "c130j",
+  "file": "C-130J 135th AS Maryland ANG in flight.jpg",
+  "artist": "USAF",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:C-130J_135th_AS_Maryland_ANG_in_flight.jpg",
+  "asset": "photos/c130j.jpg"
+ },
+ {
+  "id": "kc30",
+  "file": "KC-30 A39-002 refuelling an USAF F-16 (cropped).jpg",
+  "artist": "U.S. Air Force photo by Christian Turner",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:KC-30_A39-002_refuelling_an_USAF_F-16_(cropped).jpg",
+  "asset": "photos/kc30.jpg"
+ },
+ {
+  "id": "p8",
+  "file": "RAAF (A47-001) Boeing P-8A Poseidon aerial display at the RAAF Base Richmond Air Show 2025.jpg",
+  "artist": "Bidgee",
+  "license": "CC BY-SA 3.0 au",
+  "page": "https://commons.wikimedia.org/wiki/File:RAAF_(A47-001)_Boeing_P-8A_Poseidon_aerial_display_at_the_RAAF_Base_Richmond_Air_Show_2025.jpg",
+  "asset": "photos/p8.jpg"
+ },
+ {
+  "id": "e7",
+  "file": "A30-001 in flight over the United States in April 2025 (cropped).jpg",
+  "artist": "US Air Force photo by Richard Gonzales",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:A30-001_in_flight_over_the_United_States_in_April_2025_(cropped).jpg",
+  "asset": "photos/e7.jpg"
+ },
+ {
+  "id": "pc21",
+  "file": "Royal Australian Air Force (A54-032) Pilatus PC-21 taking off for the RAAF Roulettes display at the 2023 Australian International Airshow.jpg",
+  "artist": "Bidgee",
+  "license": "CC BY-SA 3.0 au",
+  "page": "https://commons.wikimedia.org/wiki/File:Royal_Australian_Air_Force_(A54-032)_Pilatus_PC-21_taking_off_for_the_RAAF_Roulettes_display_at_the_2023_Australian_International_Airshow.jpg",
+  "asset": "photos/pc21.jpg"
+ },
+ {
+  "id": "hawk",
+  "file": "RAAF Hawk 127 2011.jpg",
+  "artist": "Beau Giles from Newtown, Sydney, Australia",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:RAAF_Hawk_127_2011.jpg",
+  "asset": "photos/hawk.jpg"
+ },
+ {
+  "id": "f22",
+  "file": "F-22 Raptor edit1 (cropped).jpg",
+  "artist": "Master Sgt. Andy Dunaway",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:F-22_Raptor_edit1_(cropped).jpg",
+  "asset": "photos/f22.jpg"
+ },
+ {
+  "id": "b2",
+  "file": "RAF F-35B integration flying training with USAF B-2 30092019 - 4.jpg",
+  "artist": "Royal Air Force",
+  "license": "OGL v1.0",
+  "page": "https://commons.wikimedia.org/wiki/File:RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg",
+  "asset": "photos/b2.jpg"
+ },
+ {
+  "id": "b52",
+  "file": "B-52 Stratofortress assigned to the 307th Bomb Wing (cropped).jpg",
+  "artist": "Airman 1st Class Victor J. Caputo",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_(cropped).jpg",
+  "asset": "photos/b52.jpg"
+ },
+ {
+  "id": "a10",
+  "file": "Fairchild Republic A-10 Thunderbolt II - 32156159151.jpg",
+  "artist": "Master Sgt. William Greer, U.S. Air Force",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Fairchild_Republic_A-10_Thunderbolt_II_-_32156159151.jpg",
+  "asset": "photos/a10.jpg"
+ },
+ {
+  "id": "f16",
+  "file": "F-16 June 2008.jpg",
+  "artist": "Master Sgt. Andy Dunaway",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:F-16_June_2008.jpg",
+  "asset": "photos/f16.jpg"
+ },
+ {
+  "id": "typhoon",
+  "file": "RAF Eurofighter EF-2000 Typhoon F2 Lofting-1.jpg",
+  "artist": "Chris Lofting",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:RAF_Eurofighter_EF-2000_Typhoon_F2_Lofting-1.jpg",
+  "asset": "photos/typhoon.jpg"
+ },
+ {
+  "id": "rafale",
+  "file": "Rafale - RIAT 2009 (3751416421).jpg",
+  "artist": "Tim Felce (Airwolfhound)",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rafale_-_RIAT_2009_(3751416421).jpg",
+  "asset": "photos/rafale.jpg"
+ },
+ {
+  "id": "gripen",
+  "file": "Saab JAS 39 Gripen at Kaivopuisto Air Show, June 2017 (altered) copy.jpg",
+  "artist": "Tuomo Salonen / SIMFinnish Aviation Museum",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Saab_JAS_39_Gripen_at_Kaivopuisto_Air_Show%2C_June_2017_(altered)_copy.jpg",
+  "asset": "photos/gripen.jpg"
+ },
+ {
+  "id": "su57",
+  "file": "Sukhoi Design Bureau, 054, Sukhoi T-50 (Su-57 prototype) (49581303977).jpg",
+  "artist": "Anna Zvereva from Tallinn, Estonia",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_T-50_(Su-57_prototype)_(49581303977).jpg",
+  "asset": "photos/su57.jpg"
+ },
+ {
+  "id": "c5",
+  "file": "USAF C-5 Galaxy in flight.jpg",
+  "artist": "U.S. Air Force photo by Brett Snow",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:USAF_C-5_Galaxy_in_flight.jpg",
+  "asset": "photos/c5.jpg"
+ },
+ {
+  "id": "a400m",
+  "file": "German Air Force Airbus A400M (out cropped).jpg",
+  "artist": "Peng Chen",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:German_Air_Force_Airbus_A400M_(out_cropped).jpg",
+  "asset": "photos/a400m.jpg"
+ },
+ {
+  "id": "v22",
+  "file": "MV-22 mcas Miramar 2014.JPG",
+  "artist": "FOX 52",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MV-22_mcas_Miramar_2014.JPG",
+  "asset": "photos/v22.jpg"
+ },
+ {
+  "id": "harrier",
+  "file": "Boeing AV-8B Harrier II, Italy - Navy JP7306232.jpg",
+  "artist": "Aldo Bidini",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing_AV-8B_Harrier_II%2C_Italy_-_Navy_JP7306232.jpg",
+  "asset": "photos/harrier.jpg"
+ },
+ {
+  "id": "f14",
+  "file": "US Navy 051105-F-5480T-005 An F-14D Tomcat conducts a mission over the Persian Gulf-region.jpg",
+  "artist": "U.S. Navy photo",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:US_Navy_051105-F-5480T-005_An_F-14D_Tomcat_conducts_a_mission_over_the_Persian_Gulf-region.jpg",
+  "asset": "photos/f14.jpg"
+ },
+ {
+  "id": "u2",
+  "file": "Usaf.u2.750pix.jpg",
+  "artist": "United States Department of the Air Force",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Usaf.u2.750pix.jpg",
+  "asset": "photos/u2.jpg"
+ },
+ {
+  "id": "wrightflyer",
+  "file": "First flight2.jpg",
+  "artist": "John T. Daniels",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg",
+  "asset": "photos/wrightflyer.jpg"
+ },
+ {
+  "id": "bleriot",
+  "file": "Bleriot XI Thulin A 1910 a.jpg",
+  "artist": "J.Klank",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bleriot_XI_Thulin_A_1910_a.jpg",
+  "asset": "photos/bleriot.jpg"
+ },
+ {
+  "id": "camel",
+  "file": "Sopwith Camel - Season Premiere Airshow 2018 (cropped).jpg",
+  "artist": "Airwolfhound",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sopwith_Camel_-_Season_Premiere_Airshow_2018_(cropped).jpg",
+  "asset": "photos/camel.jpg"
+ },
+ {
+  "id": "fokkerdr1",
+  "file": "Fokker Dr.I driedekker 2161 026221.jpg",
+  "artist": "Collectie Van Beek",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Fokker_Dr.I_driedekker_2161_026221.jpg",
+  "asset": "photos/fokkerdr1.jpg"
+ },
+ {
+  "id": "vimy",
+  "file": "Vickers Vimy.jpg",
+  "artist": "Unknown",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Vickers_Vimy.jpg",
+  "asset": "photos/vimy.jpg"
+ },
+ {
+  "id": "southerncross",
+  "file": "StateLibQld 1 139254 Landing the aircraft, Southern Cross in Brisbane, Queensland, ca. 1928.jpg",
+  "artist": "State Library of Queensland",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:StateLibQld_1_139254_Landing_the_aircraft%2C_Southern_Cross_in_Brisbane%2C_Queensland%2C_ca._1928.jpg",
+  "asset": "photos/southerncross.jpg"
+ },
+ {
+  "id": "spiritstlouis",
+  "file": "Spirit Of St Louis2.jpg",
+  "artist": "Ad Meskens",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spirit_Of_St_Louis2.jpg",
+  "asset": "photos/spiritstlouis.jpg"
+ },
+ {
+  "id": "tigermoth",
+  "file": "De Havilland (Australia) DH-82A Tiger Moth AN2319882.jpg",
+  "artist": "Chris Finney Contrabandit Photos",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:De_Havilland_(Australia)_DH-82A_Tiger_Moth_AN2319882.jpg",
+  "asset": "photos/tigermoth.jpg"
+ },
+ {
+  "id": "dc3",
+  "file": "Douglas DC-3, SE-CFP.jpg",
+  "artist": "Towpilot",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Douglas_DC-3%2C_SE-CFP.jpg",
+  "asset": "photos/dc3.jpg"
+ },
+ {
+  "id": "spitfire",
+  "file": "Spitfire - Season Premiere Airshow 2018 (cropped).jpg",
+  "artist": "Airwolfhound",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Spitfire_-_Season_Premiere_Airshow_2018_(cropped).jpg",
+  "asset": "photos/spitfire.jpg"
+ },
+ {
+  "id": "mustang",
+  "file": "P-51-361.jpg",
+  "artist": "USAAF/361st FG Association (via Al Richards)",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:P-51-361.jpg",
+  "asset": "photos/mustang.jpg"
+ },
+ {
+  "id": "boomerang",
+  "file": "Boomerang (AWM 0408).jpg",
+  "artist": "Harrison, John Thomas",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Boomerang_(AWM_0408).jpg",
+  "asset": "photos/boomerang.jpg"
+ },
+ {
+  "id": "lancaster",
+  "file": "Battle of Britain Memorial flight Avro Lancaster (cropped).jpg",
+  "artist": "Cpl Phil Major ABIPP",
+  "license": "OGL v1.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Britain_Memorial_flight_Avro_Lancaster_(cropped).jpg",
+  "asset": "photos/lancaster.jpg"
+ },
+ {
+  "id": "b17",
+  "file": "B17 - Chino Airshow 2014 (framed).jpg",
+  "artist": "Airwolfhound",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:B17_-_Chino_Airshow_2014_(framed).jpg",
+  "asset": "photos/b17.jpg"
+ },
+ {
+  "id": "catalina",
+  "file": "RIHB 2022 PBY Catalina.jpg",
+  "artist": "Filipe Sousa",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:RIHB_2022_PBY_Catalina.jpg",
+  "asset": "photos/catalina.jpg"
+ },
+ {
+  "id": "me262",
+  "file": "Messerschmitt Me 262A at the National Museum of the USAF (cropped).jpg",
+  "artist": "USAF museum",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Messerschmitt_Me_262A_at_the_National_Museum_of_the_USAF_(cropped).jpg",
+  "asset": "photos/me262.jpg"
+ },
+ {
+  "id": "constellation",
+  "file": "Lockheed L1049C CF-TGC TCA LAP 12.09.54 edited-2.jpg",
+  "artist": "RuthAS",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lockheed_L1049C_CF-TGC_TCA_LAP_12.09.54_edited-2.jpg",
+  "asset": "photos/constellation.jpg"
+ },
+ {
+  "id": "comet",
+  "file": "BEA de Havilland DH-106 Comet 4B Berlin.jpg",
+  "artist": "Ralf Manteufel, derivative work Altair78",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg",
+  "asset": "photos/comet.jpg"
+ },
+ {
+  "id": "b707",
+  "file": "Boeing 707-321B Pan Am Freer.jpg",
+  "artist": "Mike Freer",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:Boeing_707-321B_Pan_Am_Freer.jpg",
+  "asset": "photos/b707.jpg"
+ },
+ {
+  "id": "concorde",
+  "file": "British Airways Concorde G-BOAC 03.jpg",
+  "artist": "Eduard Marmet",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg",
+  "asset": "photos/concorde.jpg"
+ },
+ {
+  "id": "sr71",
+  "file": "Lockheed SR-71 Blackbird.jpg",
+  "artist": "USAF / Judson Brohmer",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Lockheed_SR-71_Blackbird.jpg",
+  "asset": "photos/sr71.jpg"
+ },
+ {
+  "id": "c172",
+  "file": "Cessna 172S Skyhawk SP, Private JP6817606.jpg",
+  "artist": "Peter Bakema",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:Cessna_172S_Skyhawk_SP%2C_Private_JP6817606.jpg",
+  "asset": "photos/c172.jpg"
+ },
+ {
+  "id": "pa28",
+  "file": "G-AVRZ Piper PA-28-180 Cherokee C at Northrepps.jpg",
+  "artist": "Mike Burdett",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:G-AVRZ_Piper_PA-28-180_Cherokee_C_at_Northrepps.jpg",
+  "asset": "photos/pa28.jpg"
+ },
+ {
+  "id": "sr22",
+  "file": "Cirrus SR-22 G3 GTS AN1594917.jpg",
+  "artist": "Alan Lebeda",
+  "license": "GFDL 1.2",
+  "page": "https://commons.wikimedia.org/wiki/File:Cirrus_SR-22_G3_GTS_AN1594917.jpg",
+  "asset": "photos/sr22.jpg"
+ },
+ {
+  "id": "da40",
+  "file": "Diamond DA40 (8736184864).jpg",
+  "artist": "bomberpilot",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Diamond_DA40_(8736184864).jpg",
+  "asset": "photos/da40.jpg"
+ },
+ {
+  "id": "cub",
+  "file": "Piper J3C Cub 04.jpg",
+  "artist": "Huhu Uet",
+  "license": "CC BY 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Piper_J3C_Cub_04.jpg",
+  "asset": "photos/cub.jpg"
+ },
+ {
+  "id": "pc12",
+  "file": "Royal Flying Doctor Service of Australia (VH-OWR) Pilatus PC-12 NG at Esperance Airport.jpg",
+  "artist": "DaHuzyBru",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Royal_Flying_Doctor_Service_of_Australia_(VH-OWR)_Pilatus_PC-12_NG_at_Esperance_Airport.jpg",
+  "asset": "photos/pc12.jpg"
+ },
+ {
+  "id": "kingair",
+  "file": "Royal Flying Doctor Service (VH-AMR) Beechcraft B200C King Air (2).jpg",
+  "artist": "Bidgee",
+  "license": "CC BY-SA 3.0 au",
+  "page": "https://commons.wikimedia.org/wiki/File:Royal_Flying_Doctor_Service_(VH-AMR)_Beechcraft_B200C_King_Air_(2).jpg",
+  "asset": "photos/kingair.jpg"
+ },
+ {
+  "id": "caravan",
+  "file": "Iraqi Air Force Cessna 208 Caravan training mission.jpg",
+  "artist": "Lt. Col. Scott Voskovitch",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Iraqi_Air_Force_Cessna_208_Caravan_training_mission.jpg",
+  "asset": "photos/caravan.jpg"
+ },
+ {
+  "id": "beaver",
+  "file": "VH-IDO De Havilland Canada DHC-2 Beaver Mk1 Airwaves Gold Coast (8402101541).jpg",
+  "artist": "Robert Frola",
+  "license": "GFDL",
+  "page": "https://commons.wikimedia.org/wiki/File:VH-IDO_De_Havilland_Canada_DHC-2_Beaver_Mk1_Airwaves_Gold_Coast_(8402101541).jpg",
+  "asset": "photos/beaver.jpg"
+ },
+ {
+  "id": "g650",
+  "file": "G-ULFS Gulfstream G650 CVT 05-05-16 (27046023031) (cropped).jpg",
+  "artist": "Rob Hodgkins",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:G-ULFS_Gulfstream_G650_CVT_05-05-16_(27046023031)_(cropped).jpg",
+  "asset": "photos/g650.jpg"
+ },
+ {
+  "id": "global7500",
+  "file": "N182QS-Global7500-120823.png",
+  "artist": "KeepPhlyingHigh",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:N182QS-Global7500-120823.png",
+  "asset": "photos/global7500.png"
+ },
+ {
+  "id": "citation",
+  "file": "OO-FLN.JPG",
+  "artist": "Alf van Beem",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:OO-FLN.JPG",
+  "asset": "photos/citation.jpg"
+ },
+ {
+  "id": "extra300",
+  "file": "N763DT Extra EA-300L.jpg",
+  "artist": "Tomás Del Coro",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:N763DT_Extra_EA-300L.jpg",
+  "asset": "photos/extra300.jpg"
+ },
+ {
+  "id": "at802",
+  "file": "Air tractor arrendado por CONAF (modified).jpg",
+  "artist": "Daniel VA",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Air_tractor_arrendado_por_CONAF_(modified).jpg",
+  "asset": "photos/at802.jpg"
+ },
+ {
+  "id": "cl415",
+  "file": "I-DPCN at work 03 (cropped).jpg",
+  "artist": "Maarten Visser",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:I-DPCN_at_work_03_(cropped).jpg",
+  "asset": "photos/cl415.jpg"
+ },
+ {
+  "id": "bellx1",
+  "file": "Bell X-1 46-062 (in flight).jpg",
+  "artist": "NASA",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Bell_X-1_46-062_(in_flight).jpg",
+  "asset": "photos/bellx1.jpg"
+ },
+ {
+  "id": "x15",
+  "file": "X-15 flying.jpg",
+  "artist": "U.S. Air Force",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:X-15_flying.jpg",
+  "asset": "photos/x15.jpg"
+ },
+ {
+  "id": "x59",
+  "file": "NASA’s X-59 in Flight Above the Mojave Desert (AFRC2025-0168-038).jpg",
+  "artist": "NASA Armstrong Flight Research Center / Lori Losey",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_X-59_in_Flight_Above_the_Mojave_Desert_(AFRC2025-0168-038).jpg",
+  "asset": "photos/x59.jpg"
+ },
+ {
+  "id": "xb1",
+  "file": "Boom XB-1 mockup Wings Over the Rockies 2023.jpg",
+  "artist": "Schierbecker",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Boom_XB-1_mockup_Wings_Over_the_Rockies_2023.jpg",
+  "asset": "photos/xb1.jpg"
+ },
+ {
+  "id": "solarimpulse",
+  "file": "SolarImpulse HB-SIA landing Brussels Airport 3-crop.jpg",
+  "artist": "Brussels Airport",
+  "license": "CC BY-SA 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:SolarImpulse_HB-SIA_landing_Brussels_Airport_3-crop.jpg",
+  "asset": "photos/solarimpulse.jpg"
+ },
+ {
+  "id": "stratolaunch",
+  "file": "230113- Stratolaunch Talon Photo Chase-091.jpg",
+  "artist": "Eva Folsom",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:230113-_Stratolaunch_Talon_Photo_Chase-091.jpg",
+  "asset": "photos/stratolaunch.jpg"
+ },
+ {
+  "id": "voyager",
+  "file": "Voyager aircraft return from non-stop trip around the world (EC87-0029-02).jpg",
+  "artist": "NASA Armstrong Flight Research Center / Thomas Harrop",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Voyager_aircraft_return_from_non-stop_trip_around_the_world_(EC87-0029-02).jpg",
+  "asset": "photos/voyager.jpg"
+ },
+ {
+  "id": "spruce",
+  "file": "H-4 Hercules 2.jpg",
+  "artist": "SDASM Archives",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:H-4_Hercules_2.jpg",
+  "asset": "photos/spruce.jpg"
+ },
+ {
+  "id": "ghostbat",
+  "file": "MQ-28 Ghost Bat prepares to conduct a taxi test during Exercise Valiant Shield 2026 at Rota.jpg",
+  "artist": "U.S. Air Force photo by Senior Airman Adrien Tran",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:MQ-28_Ghost_Bat_prepares_to_conduct_a_taxi_test_during_Exercise_Valiant_Shield_2026_at_Rota.jpg",
+  "asset": "photos/ghostbat.jpg"
+ }
+]
