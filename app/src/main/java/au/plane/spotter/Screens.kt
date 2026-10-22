@@ -68,7 +68,10 @@ fun HomeScreen(planes: List<Plane>, store: SpotterStore, updates: UpdateState, g
     val local = planes.count { it.localSpotting }
     val today = remember { planes[(LocalDate.now().toEpochDay() % planes.size).toInt()] }
     val tiles = buildList {
-        add(Tile("📡", "Sky scanner", "Point your phone at a plane overhead", Screen.Scanner))
+        add(Tile("📡", "Sky scanner", "Point your phone at a plane overhead", Screen.Scanner()))
+        add(Tile("🎯", "Radar", "Every plane around you", Screen.Scanner(ScanMode.RADAR)))
+        add(Tile("🗺️", "Live map", "Planes flying anywhere", Screen.Scanner(ScanMode.MAP)))
+        add(Tile("🛡️", "Crash sites", "Famous crashes and what we learned", Screen.Scanner(ScanMode.MAP, accidents = true)))
         add(Tile("📍", "Spot in Melbourne", "$local you can see around Victoria", Screen.Browse(localOnly = true)))
         add(Tile("🌏", "Every aircraft", "All ${planes.size} in the hangar", Screen.Browse()))
         Category.entries.forEach { c ->
@@ -334,6 +337,7 @@ fun DetailScreen(p: Plane, planes: List<Plane>, store: SpotterStore, go: (Screen
                 }
             }
             p.spotterTips?.let { item { SectionCard("How to recognise it", "🔍") { Text(it) } } }
+            item { AccidentLinks(AccidentRepo.all(context).filter { it.libraryId == p.id }, go) }
             if (similar.isNotEmpty()) {
                 item {
                     Text("More ${p.category.label.lowercase()}", Modifier.padding(16.dp, 16.dp, 16.dp, 8.dp),

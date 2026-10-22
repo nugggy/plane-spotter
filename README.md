@@ -5,6 +5,9 @@ An Android app for a young aviation fan in Melbourne. It covers 146 aircraft, fr
 Each aircraft has a real photo, full specifications, fun facts, tips on how to recognise it, and where to spot it around Melbourne and Victoria. The app also has:
 
 - a sky scanner: point the phone at a plane overhead and it shows what it is, the airline, where it is flying from and to, how far through the trip it is, its height, speed and distance
+- a radar screen showing every plane around him, which turns as he turns, with 10 to 100 km range
+- a live OpenStreetMap map he can zoom right out on, with planes drawn pointing the way they are flying
+- a crash sites toggle on the map: 103 notable crashes and emergencies (accidents, deliberate attacks and wartime losses), each with what happened, why, and what changed afterwards to make flying safer, written for a 10 to 13 year old
 - a "Spot in Melbourne" list of 64 aircraft he's likely to see locally
 - a spotter's log to tick off aircraft he has seen, with progress and badges
 - a 10-question quiz (name the aircraft from its photo, which is faster, which flew first)
@@ -17,7 +20,7 @@ The aircraft guide works offline. The app goes online to check for updates and, 
 
 The scanner combines the phone's location, compass and tilt sensors with live ADS-B data to work out which aircraft the camera is pointing at. Live positions come from [adsb.lol](https://adsb.lol) (Open Database Licence) and flight routes and aircraft details from [adsbdb.com](https://www.adsbdb.com). Neither needs an account.
 
-The exact location never leaves the phone. Only a position rounded to two decimal places (about 1 km) is sent to adsb.lol, and only a flight callsign or transponder code is sent to adsbdb. Nothing is stored, and the camera picture is never saved or sent anywhere. Location and camera permission are only requested when the scanner is opened.
+The exact location never leaves the phone. Only a position rounded to two decimal places (about 1 km) is sent to adsb.lol, and only a flight callsign or transponder code is sent to adsbdb. Map tiles come from OpenStreetMap (© OpenStreetMap contributors), whose servers see the map area being viewed. Nothing is stored, and the camera picture is never saved or sent anywhere. Location and camera permission are only requested when the scanner is opened.
 
 ## Installing
 
@@ -53,6 +56,7 @@ node data/build_data.js          # merge data/parts/*.json and photo credits int
 
 - `data/master_list.tsv` is the list of aircraft, their categories and whether they're seen around Melbourne.
 - `data/parts/*.json` holds the researched specifications and text. These were checked against English Wikipedia in October 2026 and rounded.
+- `data/accidents_*.json` hold the crash sites, researched from English Wikipedia and official investigation reports in October 2026.
 - `data/photos.json` lists the chosen Wikimedia Commons photo for each aircraft, with author and licence. `data/download_photos.js` fetches them at 1024 pixels wide.
 
 All photos are from Wikimedia Commons and are used under their own licences (Creative Commons, GFDL, public domain and others). See [CREDITS.md](CREDITS.md) and the About screen in the app for per-photo credits.

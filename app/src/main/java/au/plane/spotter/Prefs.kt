@@ -20,6 +20,10 @@ class SpotterStore(context: Context) {
         json.keys().forEach { spotted[it] = json.getString(it) }
     }
 
+    var accidentIntroSeen: Boolean
+        get() = prefs.getBoolean("accidentIntroSeen", false)
+        set(v) { prefs.edit().putBoolean("accidentIntroSeen", v).apply() }
+
     fun toggle(id: String) {
         if (spotted.containsKey(id)) spotted.remove(id)
         else spotted[id] = LocalDate.now().format(DateTimeFormatter.ofPattern("dd/MM/yyyy"))

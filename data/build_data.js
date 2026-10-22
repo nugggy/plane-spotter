@@ -30,3 +30,20 @@ const out = path.join(__dirname, '..', 'app', 'src', 'main', 'assets', 'planes.j
 fs.writeFileSync(out, JSON.stringify(planes));
 console.log(planes.length + ' aircraft written to ' + out);
 if (problems.length) { console.log(problems.join('\n')); process.exitCode = 1; }
+
+// Crash and accident sites for the live map.
+const accFiles = ['accidents_au.json', 'accidents_world.json', 'accidents_extra.json'].filter(f => fs.existsSync(path.join(__dirname, f)));
+const ids = new Set(planes.map(p => p.id));
+const seenAcc = new Set();
+const accidents = accFiles.flatMap(f => JSON.parse(fs.readFileSync(path.join(__dirname, f), 'utf8'))).filter(a => {
+  if (seenAcc.has(a.id)) { problems.push('duplicate accident id ' + a.id); return false; }
+  seenAcc.add(a.id);
+  if (typeof a.lat !== 'number' || typeof a.lon !== 'number') { problems.push('accident without coordinates: ' + a.id); return false; }
+  if (a.libraryId && !ids.has(a.libraryId)) { problems.push('accident ' + a.id + ' has unknown libraryId ' + a.libraryId); a.libraryId = null; }
+  if (/[–—]/.test(JSON.stringify(a))) problems.push('dash in accident ' + a.id);
+  a.kind = a.kind || 'accident';
+  return true;
+});
+fs.writeFileSync(path.join(__dirname, '..', 'app', 'src', 'main', 'assets', 'accidents.json'), JSON.stringify(accidents));
+console.log(accidents.length + ' accident sites from ' + accFiles.join(', '));
+if (problems.length) { console.log(problems.join('\n')); process.exitCode = 1; }

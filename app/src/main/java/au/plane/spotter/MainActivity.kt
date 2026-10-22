@@ -23,6 +23,7 @@ import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.saveable.rememberSaveableStateHolder
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
@@ -38,7 +39,8 @@ sealed interface Screen {
     data object Log : Screen
     data object Guide : Screen
     data object About : Screen
-    data object Scanner : Screen
+    data class Scanner(val mode: ScanMode = ScanMode.CAMERA, val accidents: Boolean = false) : Screen
+    data class Accident(val id: String) : Screen
 }
 
 class MainActivity : ComponentActivity() {
@@ -118,7 +120,11 @@ fun App(store: SpotterStore) {
 
     BackHandler(enabled = stack.size > 1) { back() }
 
-    when (val screen = stack.last()) {
+    // Each entry on the back stack keeps its own saved state (filters, map position and so on).
+    val saveable = rememberSaveableStateHolder()
+    val current = stack.last()
+    saveable.SaveableStateProvider("${stack.lastIndex}:$current") {
+    when (val screen = current) {
         Screen.Home -> HomeScreen(planes, store, updates, ::go)
         is Screen.Browse -> BrowseScreen(planes, store, screen, ::go, ::back)
         is Screen.Detail -> planes.firstOrNull { it.id == screen.id }?.let { DetailScreen(it, planes, store, ::go, ::back) }
@@ -127,7 +133,9 @@ fun App(store: SpotterStore) {
         Screen.Log -> LogScreen(planes, store, ::go, ::back)
         Screen.Guide -> GuideScreen(::back)
         Screen.About -> AboutScreen(planes, updates, ::checkNow, ::back)
-        Screen.Scanner -> SkyScannerScreen(planes, store, ::go, ::back)
+        is Screen.Scanner -> SkyScannerScreen(planes, store, screen, ::go, ::back)
+        is Screen.Accident -> AccidentRepo.all(context).firstOrNull { it.id == screen.id }?.let { AccidentScreen(it, planes, ::go, ::back) }
+    }
     }
 
     val info = updates.available
